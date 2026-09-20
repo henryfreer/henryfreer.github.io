@@ -9,7 +9,7 @@ Welcome to my page. I am a computer science student at Boise State, and I have a
 - **School:** Boise State University
 - **Major:** Computer Science
 - **Interests:** Video Games, Entomology, Movies.
-- *Currently learning:* Java, Git, Coding Langauges, etc
+- *Currently learning:* Java, Git, Coding Languages, etc
 
 ## What I'm Working On
 
@@ -17,7 +17,7 @@ Welcome to my page. I am a computer science student at Boise State, and I have a
 2. Getting comfortable with Git and GitHub
 3. Building this page for my Intro to Version Control class
 
- I am still figuring out a lot of things, but that is the fun part of learning computers for me!
+I am still figuring out a lot of things, but that is the fun part of learning computers for me!
 
 ## Links
 
